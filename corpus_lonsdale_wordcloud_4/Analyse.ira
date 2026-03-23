@@ -1,0 +1,19 @@
+[wordcloud]
+type = wordcloud
+lem = 1
+pathout = C:\Users\user\OneDrive\Escritorio\PROYECTOS\ELITES TECNOLOGICAS\subtitulos\corpus_lonsdale_corpus_1\corpus_lonsdale_wordcloud_4
+corpus = 4fa7d788-eb1e-448a-bbac-0bc515da0ad9
+uuid = ec2f5247-bcf1-4b25-8c3f-e71fea0f58e6
+name = corpus_lonsdale_wordcloud_4
+width = 800
+height = 800
+maxword = 600
+mincex = 0.5
+maxcex = 5.0
+col_text = (0, 0, 0, 255)
+col_bg = (255, 255, 255, 255)
+mode = 0
+svg = 0
+graphout = C:\Users\user\OneDrive\Escritorio\PROYECTOS\ELITES TECNOLOGICAS\subtitulos\corpus_lonsdale_corpus_1\corpus_lonsdale_wordcloud_4\nuage_1.png
+time = 0h 0m 19s
+ira = C:\Users\user\OneDrive\Escritorio\PROYECTOS\ELITES TECNOLOGICAS\subtitulos\corpus_lonsdale_corpus_1\corpus_lonsdale_wordcloud_4\Analyse.ira
