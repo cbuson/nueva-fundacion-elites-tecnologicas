@@ -1,0 +1,24 @@
+[alceste]
+type = alceste
+lem = 1
+mincl = 0
+nbforme_uce = 0
+max_actives = 50000
+tailleuc1 = 14
+nbcl = 4
+tailleuc2 = 16
+classif_mode = 1
+minforme = 2
+expressions = 1
+nbcl_p1 = 12
+svdmethod = irlba
+mode.patate = 0
+corpus = 4fa7d788-eb1e-448a-bbac-0bc515da0ad9
+pathout = C:\Users\user\OneDrive\Escritorio\PROYECTOS\ELITES TECNOLOGICAS\subtitulos\corpus_lonsdale_corpus_1\corpus_lonsdale_alceste_2
+uuid = 32f6c7c3-f216-4064-a0f1-2ee4fc85dfe9
+name = corpus_lonsdale_alceste_2
+eff_min_forme = 3
+nbactives = 8320
+clnb = 3
+time = 0h 22m 16s
+ira = C:\Users\user\OneDrive\Escritorio\PROYECTOS\ELITES TECNOLOGICAS\subtitulos\corpus_lonsdale_corpus_1\corpus_lonsdale_alceste_2\Analyse.ira
